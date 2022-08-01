@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 443.14 154.9" style="enable-background:new 0 0 443.14 154.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#9CAE86;stroke:#9CAE86;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:15px;}
+	.st4{fill:#8194B5;stroke:#8194B5;stroke-miterlimit:10;}
+	.st5{fill:#B79460;stroke:#B79460;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#47413F;stroke-miterlimit:10;}
+	.st7{fill:#47413F;}
+	.st8{font-size:16px;}
+</style>
+<rect x="28.43" y="93.46" class="st0" width="86.93" height="41.83"/>
+<rect x="43.46" y="107.19" class="st1" width="71.9" height="30.72"/>
+<text transform="matrix(1 0 0 1 43.4641 117.8395)" class="st2 st3">Transient</text>
+<rect x="115.36" y="93.46" class="st4" width="217.32" height="41.83"/>
+<rect x="187.25" y="106.86" class="st1" width="130.07" height="31.37"/>
+<text transform="matrix(1 0 0 1 187.2548 117.5127)" class="st2 st3">Steady-State</text>
+<rect x="332.68" y="93.46" class="st5" width="86.93" height="41.83"/>
+<rect x="357.52" y="106.86" class="st1" width="58.17" height="26.8"/>
+<text transform="matrix(1 0 0 1 357.5159 117.5127)" class="st2 st3">Decay</text>
+<g>
+	<g>
+		<line class="st6" x1="34.47" y1="35.29" x2="413.57" y2="35.29"/>
+		<g>
+			<path class="st7" d="M28.43,35.29c2.84,1.05,6.36,2.85,8.55,4.76l-1.72-4.76l1.72-4.75C34.79,32.44,31.27,34.24,28.43,35.29z"/>
+		</g>
+		<g>
+			<path class="st7" d="M419.61,35.29c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C413.24,32.44,416.77,34.24,419.61,35.29
+				z"/>
+		</g>
+	</g>
+</g>
+<rect x="206.54" y="12.75" class="st1" width="160.13" height="26.14"/>
+<text transform="matrix(1 0 0 1 206.536 24.1051)" class="st2 st8">N+L-1</text>
+<g>
+	<g>
+		<line class="st6" x1="34.47" y1="79.08" x2="109.32" y2="79.08"/>
+		<g>
+			<path class="st7" d="M28.43,79.08c2.84,1.05,6.36,2.85,8.55,4.76l-1.72-4.76l1.72-4.75C34.79,76.23,31.27,78.03,28.43,79.08z"/>
+		</g>
+		<g>
+			<path class="st7" d="M115.36,79.08c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C109,76.23,112.52,78.03,115.36,79.08z"
+				/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st6" x1="124.01" y1="79.08" x2="326.64" y2="79.08"/>
+		<g>
+			<path class="st7" d="M117.97,79.08c2.84,1.05,6.36,2.85,8.55,4.76l-1.72-4.76l1.72-4.75C124.34,76.23,120.81,78.03,117.97,79.08z
+				"/>
+		</g>
+		<g>
+			<path class="st7" d="M332.68,79.08c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C326.32,76.23,329.84,78.03,332.68,79.08
+				z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st6" x1="341.98" y1="79.08" x2="413.57" y2="79.08"/>
+		<g>
+			<path class="st7" d="M335.95,79.08c2.84,1.05,6.36,2.85,8.55,4.76l-1.72-4.76l1.72-4.75C342.31,76.23,338.79,78.03,335.95,79.08z
+				"/>
+		</g>
+		<g>
+			<path class="st7" d="M419.61,79.08c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C413.24,76.23,416.77,78.03,419.61,79.08
+				z"/>
+		</g>
+	</g>
+</g>
+<rect x="61.44" y="57.52" class="st1" width="62.09" height="15.69"/>
+<text transform="matrix(1 0 0 1 61.4379 68.8762)" class="st2 st8">L-1</text>
+<rect x="206.54" y="57.35" class="st1" width="91.5" height="27.45"/>
+<text transform="matrix(1 0 0 1 206.536 68.7127)" class="st2 st8">N-L+1</text>
+<rect x="372.76" y="57.52" class="st1" width="62.09" height="15.69"/>
+<text transform="matrix(1 0 0 1 372.7614 68.8762)" class="st2 st8">L-1</text>
+</svg>

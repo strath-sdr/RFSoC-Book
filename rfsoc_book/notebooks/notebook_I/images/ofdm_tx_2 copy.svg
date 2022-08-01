@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 683.66 95.42" style="enable-background:new 0 0 683.66 95.42;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#9CAE86;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-size:13px;}
+	.st5{font-size:12px;}
+	.st6{fill:none;stroke:#E38666;stroke-miterlimit:10;}
+	.st7{font-size:14px;}
+	.st8{fill:none;stroke:#006AA8;stroke-miterlimit:10;}
+</style>
+<rect x="99.39" y="21.58" class="st0" width="117.65" height="52.12"/>
+<g>
+	<g>
+		<line class="st1" x1="15.73" y1="50.67" x2="93.36" y2="50.67"/>
+		<g>
+			<path d="M99.39,50.67c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C93.03,47.82,96.55,49.62,99.39,50.67z"/>
+		</g>
+	</g>
+</g>
+<rect x="20.63" y="32" class="st2" width="73.86" height="12.91"/>
+<text transform="matrix(1 0 0 1 20.6344 41.2296)" class="st3 st4">Input bits</text>
+<rect x="119.65" y="32" class="st2" width="94.77" height="37.34"/>
+<text transform="matrix(1 0 0 1 119.6531 40.5196)"><tspan x="0" y="0" class="st3 st5">Symbol Mapping </tspan><tspan x="0" y="14.4" class="st3 st5">(BPSK,QPSK..)</tspan></text>
+<g>
+	<line x1="217.04" y1="47.64" x2="273.86" y2="47.64"/>
+	<g>
+		<line class="st1" x1="217.04" y1="47.64" x2="267.82" y2="47.64"/>
+		<g>
+			<path d="M273.86,47.64c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C267.49,44.79,271.02,46.59,273.86,47.64z"/>
+		</g>
+	</g>
+</g>
+<rect x="276.8" y="21.58" class="st6" width="119.61" height="52.12"/>
+<rect x="322.39" y="42.42" class="st2" width="83.01" height="39.22"/>
+<text transform="matrix(1 0 0 1 322.3858 52.3588)" class="st3 st7">IFFT</text>
+<rect x="444.93" y="21.58" class="st8" width="119.61" height="52.12"/>
+<rect x="476.31" y="32.37" class="st2" width="77.78" height="37.91"/>
+<text transform="matrix(1 0 0 1 476.307 42.307)"><tspan x="0" y="0" class="st3 st7">Add Cyclic </tspan><tspan x="0" y="16.8" class="st3 st7">    Prefix </tspan></text>
+<g>
+	<line x1="396.41" y1="47.64" x2="442.16" y2="47.64"/>
+	<g>
+		<line class="st1" x1="396.41" y1="47.64" x2="436.12" y2="47.64"/>
+		<g>
+			<path d="M442.16,47.64c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C435.79,44.79,439.32,46.59,442.16,47.64z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line x1="567.32" y1="47.64" x2="632.03" y2="47.64"/>
+	<g>
+		<line class="st1" x1="567.32" y1="47.64" x2="625.99" y2="47.64"/>
+		<g>
+			<path d="M632.03,47.64c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C625.66,44.79,629.19,46.59,632.03,47.64z"/>
+		</g>
+	</g>
+</g>
+<rect x="584.31" y="22.73" class="st2" width="88.89" height="23.53"/>
+<text transform="matrix(1 0 0 1 584.3137 32.6664)" class="st3 st7">OFDM signal</text>
+</svg>

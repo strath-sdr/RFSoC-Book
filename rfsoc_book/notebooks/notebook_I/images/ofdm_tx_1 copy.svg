@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 754.9 328.1" style="enable-background:new 0 0 754.9 328.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#E38666;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:12.9756px;}
+	.st4{fill:none;stroke:#E0C16F;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st6{font-size:13px;}
+	.st7{font-size:12px;}
+	.st8{font-size:20px;}
+	.st9{font-size:17px;}
+	.st10{fill:none;stroke:#9CAE86;stroke-miterlimit:10;}
+	.st11{stroke:#000000;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#8292B4;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:12;}
+</style>
+<rect x="298.04" y="7.03" class="st0" width="99.91" height="260.78"/>
+<rect x="307.76" y="125.23" class="st1" width="90.2" height="37.1"/>
+<text transform="matrix(0.9248 0 0 1 307.7556 134.4398)"><tspan x="0" y="0" class="st2 st3">Serial to  Parallel       </tspan><tspan x="0" y="15.57" class="st2 st3">Converter</tspan></text>
+<rect x="106.54" y="101.31" class="st4" width="117.65" height="52.12"/>
+<g>
+	<g>
+		<line class="st5" x1="22.88" y1="130.39" x2="100.5" y2="130.39"/>
+		<g>
+			<path d="M106.54,130.39c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C100.17,127.54,103.7,129.34,106.54,130.39z"/>
+		</g>
+	</g>
+</g>
+<rect x="17.32" y="109.23" class="st1" width="73.86" height="12.91"/>
+<text transform="matrix(1 0 0 1 17.3206 118.4646)" class="st2 st6">Input bits</text>
+<rect x="126.8" y="113.18" class="st1" width="94.77" height="37.34"/>
+<text transform="matrix(1 0 0 1 126.7969 121.7026)"><tspan x="0" y="0" class="st2 st7">Symbol Mapping </tspan><tspan x="0" y="14.4" class="st2 st7">(BPSK,QPSK..)</tspan></text>
+<line x1="224.18" y1="130.39" x2="298.04" y2="130.39"/>
+<g>
+	<line x1="224.18" y1="130.39" x2="298.04" y2="130.39"/>
+	<g>
+		<line class="st5" x1="224.18" y1="130.39" x2="292" y2="130.39"/>
+		<g>
+			<path d="M298.04,130.39c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C291.68,127.54,295.2,129.34,298.04,130.39z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="397.95" y1="22.22" x2="509" y2="22.22"/>
+		<g>
+			<path d="M515.03,22.22c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C508.67,19.37,512.19,21.17,515.03,22.22z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="397.95" y1="114.99" x2="509" y2="114.99"/>
+		<g>
+			<path d="M515.03,114.99c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C508.67,112.14,512.19,113.94,515.03,114.99z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="397.95" y1="253.59" x2="511.94" y2="253.59"/>
+		<g>
+			<path d="M517.97,253.59c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C511.61,250.74,515.13,252.54,517.97,253.59z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="533.17" y1="65.69" x2="533.17" y2="45.75"/>
+		<g>
+			<path d="M533.17,39.71c1.05,2.84,2.85,6.36,4.76,8.55l-4.76-1.72l-4.75,1.72C530.32,46.07,532.12,42.55,533.17,39.71z"/>
+		</g>
+	</g>
+</g>
+<rect x="527.37" y="67.98" class="st1" width="17.97" height="19.38"/>
+<text transform="matrix(1 0 0 1 527.3703 82.1834)" class="st2 st8">1</text>
+<g>
+	<g>
+		<line class="st5" x1="533.17" y1="161.26" x2="533.17" y2="137.89"/>
+		<g>
+			<path d="M533.17,131.85c1.05,2.84,2.85,6.36,4.76,8.55l-4.76-1.72l-4.75,1.72C530.32,138.21,532.12,134.69,533.17,131.85z"/>
+		</g>
+	</g>
+</g>
+<rect x="549.02" y="168.63" class="st1" width="55.56" height="32.68"/>
+<text transform="matrix(0.583 0 0 0.583 549.0192 186.3582)" class="st2 st9"> </text>
+<rect x="510.91" y="165.69" class="st1" width="83.25" height="25.18"/>
+<text transform="matrix(1 0 0 1 510.9063 179.8856)" class="st2 st8">e</text>
+<text transform="matrix(0.583 0 0 0.583 520.9258 173.226)" class="st2 st8">j2π(∆f/fs)n</text>
+<rect x="500.27" y="303.26" class="st1" width="87.87" height="24.84"/>
+<text transform="matrix(1 0 0 1 500.2677 317.4622)" class="st2 st8">e</text>
+<text transform="matrix(0.583 0 0 0.583 510.2872 310.8026)" class="st2 st8">j2π(N-1)(∆f/fs)n</text>
+<circle class="st10" cx="533.17" cy="22.22" r="15.2"/>
+<line class="st11" x1="522.14" y1="11.78" x2="544.2" y2="32.67"/>
+<line class="st11" x1="522.14" y1="32.67" x2="544.2" y2="11.78"/>
+<circle class="st10" cx="533.17" cy="115.69" r="15.2"/>
+<line class="st11" x1="522.14" y1="105.24" x2="544.2" y2="126.13"/>
+<line class="st11" x1="522.14" y1="126.13" x2="544.2" y2="105.24"/>
+<circle class="st10" cx="536.36" cy="253.59" r="15.2"/>
+<line class="st11" x1="525.33" y1="243.15" x2="547.39" y2="264.04"/>
+<line class="st11" x1="525.33" y1="264.04" x2="547.39" y2="243.15"/>
+<g>
+	<line x1="536.36" y1="300" x2="536.36" y2="270.59"/>
+	<g>
+		<line class="st5" x1="536.36" y1="300" x2="536.36" y2="276.62"/>
+		<g>
+			<path d="M536.36,270.59c1.05,2.84,2.85,6.36,4.76,8.55l-4.76-1.72l-4.75,1.72C533.51,276.95,535.31,273.43,536.36,270.59z"/>
+		</g>
+	</g>
+</g>
+<circle class="st12" cx="639.22" cy="115.69" r="15.2"/>
+<line class="st11" x1="639.22" y1="100.49" x2="639.22" y2="130.88"/>
+<line class="st11" x1="624.02" y1="115.69" x2="654.41" y2="115.69"/>
+<g>
+	<g>
+		<line class="st5" x1="551.55" y1="114.99" x2="614.8" y2="114.99"/>
+		<g>
+			<path d="M620.83,114.99c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C614.47,112.14,617.99,113.94,620.83,114.99z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline class="st5" points="549.02,22.22 639.22,22.22 639.22,91.35 		"/>
+		<g>
+			<path d="M639.22,97.39c-1.05-2.84-2.85-6.36-4.76-8.55l4.76,1.72l4.75-1.72C642.07,91.02,640.27,94.55,639.22,97.39z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline class="st5" points="556.86,253.59 639.22,253.59 639.22,139.37 		"/>
+		<g>
+			<path d="M639.22,133.33c1.05,2.84,2.85,6.36,4.76,8.55l-4.76-1.72l-4.75,1.72C636.37,139.7,638.16,136.17,639.22,133.33z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line x1="658.17" y1="115.69" x2="748.37" y2="115.69"/>
+	<g>
+		<line class="st5" x1="658.17" y1="115.69" x2="742.33" y2="115.69"/>
+		<g>
+			<path d="M748.37,115.69c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C742,112.84,745.53,114.64,748.37,115.69z"/>
+		</g>
+	</g>
+</g>
+<rect x="668.39" y="99.31" class="st1" width="90.2" height="24.84"/>
+<text transform="matrix(0.583 0 0 0.583 668.3888 106.8455)" class="st2 st8">OFDM signal</text>
+<line class="st13" x1="533.17" y1="182.36" x2="533.17" y2="234.64"/>
+</svg>

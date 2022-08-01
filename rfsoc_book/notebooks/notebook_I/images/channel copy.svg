@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 482.35 164.05" style="enable-background:new 0 0 482.35 164.05;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#E38867;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:14px;}
+	.st4{fill:#FFFFFF;stroke:#8292B4;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#9CAE86;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="119.61" y="13.73" class="st0" width="138.56" height="49.02"/>
+	<rect x="134.97" y="25.49" class="st1" width="115.69" height="37.25"/>
+	<text transform="matrix(1 0 0 1 134.9675 35.4301)"><tspan x="0" y="0" class="st2 st3">Multipath Channel </tspan><tspan x="0" y="16.8" class="st2 st3">             Filter</tspan></text>
+</g>
+<g>
+	<circle class="st4" cx="343.14" cy="36.35" r="17.65"/>
+	<line class="st5" x1="343.14" y1="20.66" x2="343.14" y2="52.03"/>
+	<line class="st5" x1="327.12" y1="36.35" x2="359.15" y2="36.35"/>
+</g>
+<g>
+	<path class="st6" d="M261.44,36.2c1.74,0.33,61.44,0,61.44,0"/>
+	<g>
+		<path class="st7" d="M261.44,36.2c1.4,0.26,40.2,0.1,55.41,0.03"/>
+		<g>
+			<path d="M322.88,36.2c-2.84,1.07-6.35,2.88-8.53,4.79l1.7-4.76l-1.74-4.75C316.5,33.38,320.03,35.16,322.88,36.2z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line class="st6" x1="364.05" y1="36.2" x2="435.95" y2="36.2"/>
+	<g>
+		<line class="st7" x1="364.05" y1="36.2" x2="429.91" y2="36.2"/>
+		<g>
+			<path d="M435.95,36.2c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C429.58,33.35,433.11,35.15,435.95,36.2z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="304.25" y="112.49" class="st8" width="77.78" height="42.22"/>
+	<rect x="322.88" y="125.3" class="st1" width="58.17" height="29.41"/>
+	<text transform="matrix(1 0 0 1 322.876 135.2397)" class="st2 st3">AWGN</text>
+</g>
+<g>
+	<line x1="343.14" y1="109.8" x2="343.14" y2="59.48"/>
+	<g>
+		<line class="st7" x1="343.14" y1="109.8" x2="343.14" y2="65.51"/>
+		<g>
+			<path d="M343.14,59.48c1.05,2.84,2.85,6.36,4.76,8.55l-4.76-1.72l-4.75,1.72C340.29,65.84,342.08,62.32,343.14,59.48z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line class="st6" x1="43.14" y1="36.35" x2="116.34" y2="36.35"/>
+	<g>
+		<line class="st7" x1="43.14" y1="36.35" x2="110.3" y2="36.35"/>
+		<g>
+			<path d="M116.34,36.35c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76l-1.72-4.75C109.98,33.5,113.5,35.29,116.34,36.35z"/>
+		</g>
+	</g>
+</g>
+<rect x="5.88" y="29.41" class="st1" width="56.21" height="33.33"/>
+<text transform="matrix(1 0 0 1 5.8822 39.3519)" class="st2 st3">txSig</text>
+<rect x="445.1" y="29.41" class="st1" width="48.37" height="23.53"/>
+<text transform="matrix(1 0 0 1 445.0982 39.3518)" class="st2 st3">rxSig</text>
+</svg>
