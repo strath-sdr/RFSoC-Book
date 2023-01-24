@@ -3,6 +3,12 @@
 # Software Defined Radio with Zynq® UltraScale+ RFSoC
 This repository contains the companion Jupyter Notebooks for the Software Defined Radio with Zynq® UltraScale+ RFSoC book.
 
+<p align="center">
+<br>
+    <img src="https://www.rfsocbook.com/wp-content/uploads/2022/12/RFSoC3D_v4-1433x1536.png" alt="oscthumb" style="width: 30%" border="0"/>
+    <br>
+</p>
+
 To begin installing the Jupyter Notebooks on your system, click-on one of the options below.
 * [RFSoC Setup](#rfsoc-setup)
 * [Notebook Installation](#notebook-installation)
