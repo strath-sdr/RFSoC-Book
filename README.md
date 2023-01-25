@@ -42,7 +42,7 @@ The companion Jupyter Notebooks can be installed on a computer or RFSoC platform
 3. Install the RFSoC Book notebooks through PIP by executing the following command in the terminal.
 
 ```sh
-pip install https://github.com/strath-sdr/RFSoC-Book/archive/v1.0.0.tar.gz
+pip install https://github.com/strath-sdr/RFSoC-Book/archive/v1.0.1.tar.gz
 ```
 
 4. Run the following command in the Jupyter terminal window to install the notebooks and dependencies.
