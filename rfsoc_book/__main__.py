@@ -7,7 +7,7 @@ from distutils.dir_util import copy_tree
 
 # variables
 package_name = 'rfsoc_book'
-board_list = ['ZCU111', 'RFSoC2x2', 'RFSoC4x2']
+board_list = ['ZCU111', 'RFSoC2x2', 'RFSoC4x2', 'ZCU208', 'ZCU216']
 
 # dialogue
 help_dialogue = ''.join(['\r\nThe rfsoc_book module accepts one of the following arguments:', '\r\n',
@@ -43,6 +43,7 @@ def install_notebooks():
         f.write(dst)
         
 def install_packages():
+    board = os.environ['BOARD']
     dst = os.path.abspath(os.path.join(os.path.realpath(__file__), '..', 'package_list.txt'))
     if not os.path.exists(dst):
         raise RuntimeError(error_dialogue)
@@ -50,11 +51,14 @@ def install_packages():
         package_list = f.readlines()
     for package in package_list:
         package_name, package_src = package.split(' ')
-        print(''.join(['***** Installing ', package_name, ' *****\r\n']))
-        status = subprocess.check_call(["pip3", "install", package_src])
-        print('\r\n') # Pip is not playing nice
-        if status != 0:
-            raise RuntimeError(''.join(['Package ', package_src, ' failed to install.\r\n']))
+        if package_name == 'rfsoc_sam' and board == 'ZCU216':
+            pass
+        else:
+            print(''.join(['***** Installing ', package_name, ' *****\r\n']))
+            status = subprocess.check_call(["pip3", "install", package_src])
+            print('\r\n') # Pip is not playing nice
+            if status != 0:
+                raise RuntimeError(''.join(['Package ', package_src, ' failed to install.\r\n']))
 
 def uninstall_notebooks():
     print('\r\n***** Uninstalling Notebooks *****\r\n')
@@ -98,11 +102,14 @@ def unpackage_notebooks():
             for file in os.listdir(notebookdir):
                 file_split = file.split('_')
                 if board in file_split:
-                    file_split.remove(board)
-                    file_name = '_'.join(file_split)
-                    src = os.path.join(notebookdir, file)
-                    dst = os.path.join(notebookdir, '..', file_name)
-                    shutil.copy(src, dst)
+                    unpack_board = board
+                else:
+                    unpack_board = 'RFSoC4x2'
+                file_split.remove(unpack_board)
+                file_name = '_'.join(file_split)
+                src = os.path.join(notebookdir, file)
+                dst = os.path.join(notebookdir, '..', file_name)
+                shutil.copy(src, dst)
 
 def clean_notebooks():
     print('\r\n***** Cleaning Notebooks *****\r\n')
