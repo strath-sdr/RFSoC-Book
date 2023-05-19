@@ -14,11 +14,16 @@ To begin installing the Jupyter Notebooks on your system, click-on one of the op
 * [Notebook Installation](#notebook-installation)
 
 ## RFSoC Setup
-This repository is currently only compatible with [RFSoC-PYNQ v2.7](https://github.com/Xilinx/PYNQ/releases). Follow the steps below to setup the RFSoC platform for installing the companion Jupyter Notebooks.
+This repository is currently only compatible with [RFSoC-PYNQ v2.7](https://github.com/Xilinx/PYNQ/releases) and greater. Follow the steps below to setup the RFSoC platform for installing the companion Jupyter Notebooks.
 
-1. Currently, there are only 3 compatible RFSoC platforms. These are the [RFSoC4x2](http://rfsoc-pynq.io/), [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html), and [RFSoC2x2](http://rfsoc-pynq.io/).
+1. Currently, there are 5 compatible RFSoC platforms. These are listed as follows:
+* [ZCU208](https://www.xilinx.com/products/boards-and-kits/zcu208.html),
+* [ZCU216](https://www.xilinx.com/products/boards-and-kits/zcu216.html),
+* [ZCU111](https://www.xilinx.com/products/boards-and-kits/zcu111.html),
+* [RFSoC4x2](http://rfsoc-pynq.io/), 
+* [RFSoC2x2](http://rfsoc-pynq.io/).
 
-2. Install PYNQ v2.7 onto an SD card and plug it in to your RFSoC platform.
+2. Install PYNQ v2.7 or greater onto an SD card and plug it in to your RFSoC platform.
 
 3. Your RFSoC platform requires internet access to install the companion Jupyter Notebooks. Follow the instructions [here](https://pynq.readthedocs.io/en/v3.0.0/getting_started/network_connection.html?highlight=internet) that assist with internet access.
 
@@ -42,7 +47,7 @@ The companion Jupyter Notebooks can be installed on a computer or RFSoC platform
 3. Install the RFSoC Book notebooks through PIP by executing the following command in the terminal.
 
 ```sh
-pip install https://github.com/strath-sdr/RFSoC-Book/archive/v1.0.1.tar.gz
+pip install https://github.com/strath-sdr/RFSoC-Book/archive/v1.1.0.tar.gz
 ```
 
 4. Run the following command in the Jupyter terminal window to install the notebooks and dependencies.
