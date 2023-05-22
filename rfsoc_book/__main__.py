@@ -107,6 +107,7 @@ def unpackage_notebooks():
                     src = os.path.join(notebookdir, file)
                     dst = os.path.join(notebookdir, '..', file_name)
                     shutil.copy(src, dst)
+                    break
                 elif 'RFSoC4x2' in file_split:
                     file_split.remove('RFSoC4x2')
                     file_name = '_'.join(file_split)
