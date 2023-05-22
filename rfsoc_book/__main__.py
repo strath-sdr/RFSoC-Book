@@ -102,14 +102,17 @@ def unpackage_notebooks():
             for file in os.listdir(notebookdir):
                 file_split = file.split('_')
                 if board in file_split:
-                    unpack_board = board
-                else:
-                    unpack_board = 'RFSoC4x2'
-                file_split.remove(unpack_board)
-                file_name = '_'.join(file_split)
-                src = os.path.join(notebookdir, file)
-                dst = os.path.join(notebookdir, '..', file_name)
-                shutil.copy(src, dst)
+                    file_split.remove(board)
+                    file_name = '_'.join(file_split)
+                    src = os.path.join(notebookdir, file)
+                    dst = os.path.join(notebookdir, '..', file_name)
+                    shutil.copy(src, dst)
+                elif 'RFSoC4x2' in file_split:
+                    file_split.remove('RFSoC4x2')
+                    file_name = '_'.join(file_split)
+                    src = os.path.join(notebookdir, file)
+                    dst = os.path.join(notebookdir, '..', file_name)
+                    shutil.copy(src, dst)
 
 def clean_notebooks():
     print('\r\n***** Cleaning Notebooks *****\r\n')
