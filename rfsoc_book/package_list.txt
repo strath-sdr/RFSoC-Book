@@ -1,5 +1,5 @@
 rfsoc_sam https://github.com/strath-sdr/rfsoc_sam/archive/v0.4.3.tar.gz
-rfsoc_qpsk https://github.com/strath-sdr/rfsoc_qpsk/archive/v1.4.4.tar.gz
-rfsoc_ofdm https://github.com/strath-sdr/rfsoc_ofdm/archive/v0.3.4.tar.gz
-rfsoc_radio https://github.com/strath-sdr/rfsoc_radio/archive/v0.3.3.tar.gz
+rfsoc_qpsk https://github.com/strath-sdr/rfsoc_qpsk/archive/v1.4.5.tar.gz
+rfsoc_ofdm https://github.com/strath-sdr/rfsoc_ofdm/archive/v0.3.5.tar.gz
+rfsoc_radio https://github.com/strath-sdr/rfsoc_radio/archive/v0.3.4.tar.gz
 pynq_nco https://github.com/strath-sdr/pynq_nco/releases/download/v1.1.0/pynq_nco.tar.gz
