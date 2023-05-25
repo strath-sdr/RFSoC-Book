@@ -16,10 +16,10 @@ def generate_pkg_dirs(pkgname):
 # setuptools
 setup(
     name=package_name,
-    version='1.0.1',
+    version='1.1.0',
     install_requires=[
-        "strath_sdfec @ https://github.com/strath-sdr/rfsoc_sdfec/archive/v1.0.1.tar.gz",
-        "rfsoc_freqplan @ https://github.com/strath-sdr/rfsoc_frequency_planner/archive/v0.3.2.tar.gz"
+        "strath_sdfec @ https://github.com/strath-sdr/rfsoc_sdfec/releases/download/v1.1.0/rfsoc_sdfec.tar.gz",
+        "rfsoc_freqplan @ https://github.com/strath-sdr/rfsoc_frequency_planner/archive/v0.3.3.tar.gz"
     ],
     author="strath-sdr",
     packages=find_packages(),
